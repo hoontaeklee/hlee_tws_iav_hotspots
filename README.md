@@ -1,10 +1,12 @@
 # Description
 
-This repository contains scripts to perform analyses and create figures of an article:
+This repository contains Python scripts to perform analyses and create figures of the following article:
 
-for transparency.
+Lee, H., Jung, M., Carvalhais, N., Trautmann, T., Kraft, B., Reichstein, M., Forkel, M., and Koirala, S.: Diagnosing modeling errors of global terrestrial water storage interannual variability, Hydrol. Earth Syst. Sci. Discuss. [preprint], https://doi.org/10.5194/hess-2022-284, in review, 2022.
 
-Please feel free to ask any questions.
+# Disclaimer
+
+This repository is created to support the manuscript mentioned above. Any usage beyond the intended purpose are the responsibility of the users.
 
 # Structure
 
@@ -18,3 +20,43 @@ Please feel free to ask any questions.
 - `plot`: This directory stores figures created by scripts `plot_fig#_r1.py` in `script` directory.
 
 # Citation
+
+@Article{hess-2022-284,
+AUTHOR = {Lee, H. and Jung, M. and Carvalhais, N. and Trautmann, T. and Kraft, B. and Reichstein, M. and Forkel, M. and Koirala, S.},
+TITLE = {Diagnosing modeling errors of global terrestrial water storage interannual variability},
+JOURNAL = {Hydrology and Earth System Sciences Discussions},
+VOLUME = {2022},
+YEAR = {2022},
+PAGES = {1--44},
+URL = {https://hess.copernicus.org/preprints/hess-2022-284/},
+DOI = {10.5194/hess-2022-284}
+}
+
+For the SINDBAD simulation, please cite:
+
+@Article{hess-26-1089-2022,
+AUTHOR = {Trautmann, T. and Koirala, S. and Carvalhais, N. and G\"untner, A. and Jung, M.},
+TITLE = {The importance of vegetation in understanding terrestrial water storage variations},
+JOURNAL = {Hydrology and Earth System Sciences},
+VOLUME = {26},
+YEAR = {2022},
+NUMBER = {4},
+PAGES = {1089--1109},
+URL = {https://hess.copernicus.org/articles/26/1089/2022/},
+DOI = {10.5194/hess-26-1089-2022}
+}
+
+For the H2M simulation, please cite:
+
+@Article{hess-26-1579-2022,
+AUTHOR = {Kraft, B. and Jung, M. and K\"orner, M. and Koirala, S. and Reichstein, M.},
+TITLE = {Towards hybrid modeling of the global hydrological cycle},
+JOURNAL = {Hydrology and Earth System Sciences},
+VOLUME = {26},
+YEAR = {2022},
+NUMBER = {6},
+PAGES = {1579--1614},
+URL = {https://hess.copernicus.org/articles/26/1579/2022/},
+DOI = {10.5194/hess-26-1579-2022}
+}
+
