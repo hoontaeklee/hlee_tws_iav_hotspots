@@ -32,7 +32,7 @@ URL = {https://hess.copernicus.org/preprints/hess-2022-284/},
 DOI = {10.5194/hess-2022-284}
 }
 
-For the SINDBAD simulation, please cite:
+For the SINDBAD model, please cite:
 
 @Article{hess-26-1089-2022,
 AUTHOR = {Trautmann, T. and Koirala, S. and Carvalhais, N. and G\"untner, A. and Jung, M.},
@@ -46,7 +46,7 @@ URL = {https://hess.copernicus.org/articles/26/1089/2022/},
 DOI = {10.5194/hess-26-1089-2022}
 }
 
-For the H2M simulation, please cite:
+For the H2M model, please cite:
 
 @Article{hess-26-1579-2022,
 AUTHOR = {Kraft, B. and Jung, M. and K\"orner, M. and Koirala, S. and Reichstein, M.},
