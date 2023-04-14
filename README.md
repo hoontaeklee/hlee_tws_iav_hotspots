@@ -2,7 +2,7 @@
 
 This repository contains Python scripts to perform analyses and create figures of the following article:
 
-Lee, H., Jung, M., Carvalhais, N., Trautmann, T., Kraft, B., Reichstein, M., Forkel, M., and Koirala, S.: Diagnosing modeling errors of global terrestrial water storage interannual variability, Hydrol. Earth Syst. Sci. Discuss. [preprint], https://doi.org/10.5194/hess-2022-284, in review, 2022.
+Lee, H., Jung, M., Carvalhais, N., Trautmann, T., Kraft, B., Reichstein, M., Forkel, M., and Koirala, S.: Diagnosing modeling errors in global terrestrial water storage interannual variability, Hydrol. Earth Syst. Sci., 27, 1531–1563, https://doi.org/10.5194/hess-27-1531-2023, 2023.
 
 # Disclaimer
 
@@ -21,15 +21,16 @@ This repository is created to support the manuscript mentioned above. Any usage 
 
 # Citation
 
-@Article{hess-2022-284,
+@Article{hess-27-1531-2023,
 AUTHOR = {Lee, H. and Jung, M. and Carvalhais, N. and Trautmann, T. and Kraft, B. and Reichstein, M. and Forkel, M. and Koirala, S.},
-TITLE = {Diagnosing modeling errors of global terrestrial water storage interannual variability},
-JOURNAL = {Hydrology and Earth System Sciences Discussions},
-VOLUME = {2022},
-YEAR = {2022},
-PAGES = {1--44},
-URL = {https://hess.copernicus.org/preprints/hess-2022-284/},
-DOI = {10.5194/hess-2022-284}
+TITLE = {Diagnosing modeling errors in global terrestrial water storage interannual variability},
+JOURNAL = {Hydrology and Earth System Sciences},
+VOLUME = {27},
+YEAR = {2023},
+NUMBER = {7},
+PAGES = {1531--1563},
+URL = {https://hess.copernicus.org/articles/27/1531/2023/},
+DOI = {10.5194/hess-27-1531-2023}
 }
 
 For the SINDBAD model, please cite:
