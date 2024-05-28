@@ -10,7 +10,7 @@ This repository is created to support the manuscript mentioned above. Any usage 
 
 # Structure
 
-- `data`: The model simulations and processed data sets, which can be accessed via https:zenodo.
+- `data`: The model simulations and processed data sets, which can be accessed via [https:zenodo](https://zenodo.org/records/7813179).
   - `SINDBAD_opti_Nov2021`: Two sets of SINDBAD simulations. One is using MSWEP precipitation forcing in `VEG_MSWEP` directory. The other one is using gpcp1dd v1.3 precipitation forcing. For the set with gpcp1dd, the river water storage is in the `Routing_VEG_3_0.5` directory.
   - `h2m`: Two sets of H2M simulations. One is using gpcp1dd v1.3 precipitation forcing, the other one is using MSWEP.
 - `script`: scripts to perform the analyses and create figures. For the latter, scripts for corresponding figures are named as `plot_fig#_r1.py`.
